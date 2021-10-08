@@ -1,0 +1,2 @@
+Make the quadrant treatment of the data.
+Make one treatment that analises wich quadrant comes right before each one.

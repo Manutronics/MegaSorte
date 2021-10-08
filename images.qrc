@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/yellowBall_off.png</file>
+        <file>images/yellowBall_on.png</file>
+        <file>images/blueBall_off.png</file>
+        <file>images/blueBall_on.png</file>
+        <file>images/cyanBall_off.png</file>
+        <file>images/cyanBall_on.png</file>
+        <file>images/greenBall_off.png</file>
+        <file>images/magentaBall_on.png</file>
+        <file>images/redBall_off.png</file>
+        <file>images/redBall_on.png</file>
+        <file>images/greenBall_on.png</file>
+        <file>images/magentaBall_off.png</file>
+        <file>images/t2.gif</file>
+        <file>images/t2.ico</file>
+    </qresource>
+</RCC>
